@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "686311984781",
+    "firebase_url": "https://sschmidmair16woche23.firebaseio.com",
+    "project_id": "sschmidmair16woche23",
+    "storage_bucket": "sschmidmair16woche23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686311984781:android:aecee922432802d6",
+        "android_client_info": {
+          "package_name": "com.example.sschmidmair16woche23"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686311984781-s2lmd8lki31ncoidoo6vhnr8g44o0lic.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sschmidmair16woche23",
+            "certificate_hash": "2cb1b2c2d14e74260f950f92857bf0a2db7695e5"
+          }
+        },
+        {
+          "client_id": "686311984781-q03llbpn68i3hle2ddfqabfi1q22p1dq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmk_1Kk_wlGKazbLpRUd-XNPuTZ8Sy3qY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686311984781-q03llbpn68i3hle2ddfqabfi1q22p1dq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
